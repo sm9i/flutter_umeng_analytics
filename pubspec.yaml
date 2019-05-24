@@ -1,8 +1,8 @@
 name: flutter_umeng_analytics
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+author: Rzy <ywwjwy@gmail.com>
+homepage: https://github.com/sm9i/flutter_umeng_analytics
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
